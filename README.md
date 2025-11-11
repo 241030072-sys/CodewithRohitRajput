@@ -64,7 +64,7 @@
 
 ## 🏆 Achievements  
 
-- 🥇 **2x Hackathon Winner** (including IEEE event)  
+- 🥇 **4x Hackathon Winner** (including IEEE event)  
 - 🎯 Built **7+ Full-Stack Projects** (E-Sports, Collabs, Instagenius, E-Commerce, etc.)  
 - 📈 Strong in **Competitive Programming & Problem Solving** (100+ LeetCode Qs)  
 - 🚀 Contributed to **Slack API Internship Projects** (bots, commands, message ops)  
