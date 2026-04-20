@@ -93,6 +93,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/codewithrohitrajput/codewithrohitrajput/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codewithrohitrajput/REPO/output/snake.svg" />
 </div>
 
